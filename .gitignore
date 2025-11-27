@@ -1,0 +1,15 @@
+# --- Java / Spring Boot ---
+backend/target/
+backend/.mvn/
+backend/.idea/
+backend/*.iml
+backend/uploads/
+
+# --- React / Node ---
+academia-frontend/node_modules/
+academia-frontend/dist/
+academia-frontend/.env
+
+# --- System ---
+.DS_Store
+Thumbs.db
